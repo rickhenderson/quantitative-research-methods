@@ -88,5 +88,7 @@ Non-experimental: observe, ask questions
 In our papers, identify the type of design.
 ```
 
+*At the start of an experiment, it is important to establish that the control group and experimental groups have similar baselines, ie., pre-test reading ability of different groups before the experiment. Similar age, similar SES etc.*
 
+Ethical sent or volunteers will always affect the validity of results.
 
