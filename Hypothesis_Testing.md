@@ -47,3 +47,5 @@ In our paper - identify the hypotheses and judge them.
 * associational (bivariate and multivariate)
 * Inferential - for making estimates about populations and for **significance and hypothesis testing**
 
+**If your study is about associational variables, there won't probably be a hypothesis in the introduction.**
+
