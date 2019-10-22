@@ -19,7 +19,6 @@ N O I R
 * Has a true zero - Never bullied means something
 
 ## More types of variables
-
 * independent, predictor, or treatement
 * outcome or dependent
 * mediator (intervening) variables: they explain the relationship betweeen the DV and IV (knoweldge gained)
