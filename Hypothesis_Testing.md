@@ -92,3 +92,10 @@ In our papers, identify the type of design.
 
 Ethical sent or volunteers will always affect the validity of results.
 
+* Do any or all of your studies involve random assignment of subjects?
+* Do any or all of your studies involve a control group?
+
+## The Independent Variable
+Best: researcher controls it
+* Did anyone have a study in which the researcher had control over the IV?
+* Did anyone have a study in which the researcher had limited control over the IV?
