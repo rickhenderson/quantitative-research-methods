@@ -28,9 +28,22 @@ N O I R
 
 * regression analysis can help determine if there are relationships between the variable, and later calculations help remove it's influence from the equations
 
-# From Theory to Variable and Back Again
+## From Theory to Variable and Back Again
 Theories:
 * suggest
 * predict relations
 * predict impact
 * lead to revisions
+
+# Key Elements of Hypothese
+* predictions about the relationships among variables
+* based on prior research
+* a testable statement
+
+In our paper - identify the hypotheses and judge them.
+
+# Review of Statistical Analysis
+* descriptive (univariate analysis)
+* associational (bivariate and multivariate)
+* Inferential - for making estimates about populations and for **significance and hypothesis testing**
+
