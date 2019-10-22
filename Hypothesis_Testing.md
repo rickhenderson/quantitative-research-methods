@@ -1,6 +1,15 @@
-#Types of Variables
+# Types of Variables
 
 N O I R
+## Nominal
+* Bystander = 1
+* Bully = 2
+* Victim = 3
+
+## Ordinal
+* High status bully = 1 
+* Med status bully = 2
+* Low status bully = 3
 
 ## Interval Variable
 * The width matters
@@ -8,4 +17,13 @@ N O I R
 
 ## Ratio variable
 * Has a true zero - Never bullied means something
+
+## More types of variables
+
+* independent, predictor, or treatement
+* outcome or dependent
+* mediator (intervening) variables: they explain the relationship betweeen the DV and IV (knoweldge gained)
+* moderator (effect): influences the strength of relationship between the IV and a DV
+* control variables
+* confounding variables: researchers don't or can't be measured and might influence the outcomes
 
