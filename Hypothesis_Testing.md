@@ -49,3 +49,21 @@ In our paper - identify the hypotheses and judge them.
 
 **If your study is about associational variables, there won't probably be a hypothesis in the introduction.**
 
+```
+Correlations are interesting, but not as interesting as **predictors**.
+```
+
+# Different Types of Designs
+* Experimental
+* Quasi-experimental
+* Non-experimental
+(table activity)
+
+---
+Experimental: identifies variables and takes measurements, random sampling, double-blind, determine correlations
+
+Quasi-experimental: relies on research, don't do random sampling, they assign subjects to treatment groups; at least one IV is not manipulated; moderate causal inferences
+ie. Measure growth of a plant based on water intake
+
+Non-experimental: Observation; IV not manipulated; not assigned to conditions; weak weak causal inferences
+ie. Observing children in a school yard to report on behaviour
