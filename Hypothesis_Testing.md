@@ -62,10 +62,10 @@ Correlations are interesting, but not as interesting as **predictors**.
 (table activity)
 
 ---
-Experimental: identifies variables and takes measurements, random sampling, double-blind, determine correlations
+*Experimental:* identifies variables and takes measurements, random sampling, double-blind, determine correlations
 
-Quasi-experimental: relies on research, don't do random sampling, they assign subjects to treatment groups; at least one IV is not manipulated; moderate causal inferences
+*Quasi-experimental:* relies on research, don't do random sampling, they assign subjects to treatment groups; at least one IV is not manipulated; moderate causal inferences
 ie. Measure growth of a plant based on water intake
 
-Non-experimental: Observation; IV not manipulated; not assigned to conditions; weak weak causal inferences
+*Non-experimental:* Observation; IV not manipulated; not assigned to conditions; weak weak causal inferences
 ie. Observing children in a school yard to report on behaviour
