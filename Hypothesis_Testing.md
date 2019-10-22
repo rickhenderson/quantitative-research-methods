@@ -63,9 +63,22 @@ Correlations are interesting, but not as interesting as **predictors**.
 
 ---
 *Experimental:* identifies variables and takes measurements, random sampling, double-blind, determine correlations
-
+ie. Strict greenhouse lab environment, no rain, dew, shade factors; precise amount of water controlled
 *Quasi-experimental:* relies on research, don't do random sampling, they assign subjects to treatment groups; at least one IV is not manipulated; moderate causal inferences
-ie. Measure growth of a plant based on water intake
+ie. Measure growth of a plant based on water intake; use the same plant; not the same level of control
 
 *Non-experimental:* Observation; IV not manipulated; not assigned to conditions; weak weak causal inferences
-ie. Observing children in a school yard to report on behaviour
+ie. Observing children in a school yard to report on behaviour; 
+ie. measuring plant growth and checking weather history
+
+
+Caffiene effects student results on test. Has a control and a treatment group.
+Experimental: Random sampling
+Quasi-experimental: pre-existing groups, classrooms, not controlling how often, how much, researcher does not decide, still looking at grades
+Non-experimental: observing without knowing who had coffee
+
+Pregnancy: Effects of smoking on birthweight
+Experiment: Random sampling; Pack of smokes per day
+Quasi-experimental: Just find smokers and non-smokers; could be confounding variables; more associated variables; 
+Non-experimental: observe, ask questions
+
