@@ -40,7 +40,9 @@ Theories:
 * based on prior research
 * a testable statement
 
+```
 In our paper - identify the hypotheses and judge them.
+```
 
 # Review of Statistical Analysis
 * descriptive (univariate analysis)
