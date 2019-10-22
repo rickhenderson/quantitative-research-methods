@@ -27,3 +27,11 @@ N O I R
 * control variables
 * confounding variables: researchers don't or can't be measured and might influence the outcomes
 
+* regression analysis can help determine if there are relationships between the variable, and later calculations help remove it's influence from the equations
+
+# From Theory to Variable and Back Again
+Theories:
+* suggest
+* predict relations
+* predict impact
+* lead to revisions
